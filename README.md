@@ -42,14 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Nishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsubba27&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsubba27&layout=compact&theme=tokyonight)
-
----
-
 ### 💬 Fun Facts
 - 🧰 I love repairing electronics and DIY home projects  
 - 🧗 Enjoy hiking, problem-solving, and learning new tools every week  
