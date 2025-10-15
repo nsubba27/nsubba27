@@ -31,14 +31,6 @@
 
 ### 🚀 Featured Projects
 
-- **[Parking Payment Management System](https://github.com/nissubba1/parking-management)**  
-  Oracle SQL & PL/SQL project for automated parking payments with stored procedures, data validation, and session-based billing.
-
-- **[AWS Cloud Photo Storage Backend](https://github.com/nissubba1/aws-photo-storage)**  
-  Java Spring Boot app integrated with AWS S3 for secure photo upload, JWT authentication, and email verification.
-
-- **[Car Rental Backend System](https://github.com/nissubba1/car-rental)**  
-  REST API using Spring Data JPA and PostgreSQL with role-based access control and Postman-tested endpoints.
 
 ---
 
